@@ -1,0 +1,4 @@
+LIBRARY atophook
+
+EXPORTS
+AtopWindowHook @2
